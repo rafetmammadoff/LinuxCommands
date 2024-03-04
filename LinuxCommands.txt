@@ -7,7 +7,7 @@ rmdir - (Remove Directory)
 mkdir (Make Directory)
 touch + faylin adi
 nano + file name (faylda deyishiklik etmek ucun)
-cat + filename (fayli oxumaq ucun)
+cat + filename (fayli oxumaq - ucun)
 clear (terminali temizleyir)
 rm + filename (Fayli silmek ucun istifade olunur)
 

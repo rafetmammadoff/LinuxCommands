@@ -1,0 +1,13 @@
+cd - (Change Directory) cd + root
+ls (List of the Application) 
+ls -l  List olaraq duzur
+ls -la Hidden file ve folder-leri gosterir
+ls -lh Size-lari daha oxunaqli edir
+rmdir - (Remove Directory)
+mkdir (Make Directory)
+touch + faylin adi
+nano + file name (faylda deyishiklik etmek ucun)
+cat + filename (fayli oxumaq ucun)
+clear (terminali temizleyir)
+rm + filename (Fayli silmek ucun istifade olunur)
+

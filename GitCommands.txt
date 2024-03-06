@@ -1,3 +1,4 @@
+Git Commands (Git komandalari)
 git init (Her hansi folderi git ile elaqelendirmek)
 git status (Deyishikliklerimizi gormek ucun)
 git commit -m "message"  (Commit mesajimizi yaziriq)

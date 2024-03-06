@@ -1,0 +1,14 @@
+pwd (print working directory).
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+
